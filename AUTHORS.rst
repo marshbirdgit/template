@@ -2,6 +2,7 @@ Authors
 -------
 
 * Eric (New contributor)
-* Anthony 
+* Anthony
+* Evan Hock :)
 
 
